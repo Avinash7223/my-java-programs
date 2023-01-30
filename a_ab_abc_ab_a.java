@@ -23,6 +23,7 @@ public class Main
 		        ch=name.charAt(j);
 		        System.out.print(""+ch);
 		    }
+      
 		    System.out.println("");
 		}
 		for(i=1;i< name.length();i++)
